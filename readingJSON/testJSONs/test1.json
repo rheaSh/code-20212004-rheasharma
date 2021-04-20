@@ -1,0 +1,9 @@
+[{"Gender": "Male",
+  "HeightCm": 175,
+  "WeightKg": 65
+  },
+  { "Gender": "Female",
+    "HeightCm": 167,
+    "WeightKg": 62
+  }
+]
